@@ -1,0 +1,8 @@
+/Users/eric0liveira/Documents/repostories/gitHub/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.deps.json
+/Users/eric0liveira/Documents/repostories/gitHub/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+/Users/eric0liveira/Documents/repostories/gitHub/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/Users/eric0liveira/Documents/repostories/gitHub/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/Users/eric0liveira/Documents/repostories/gitHub/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/Users/eric0liveira/Documents/repostories/gitHub/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfo.cs
+/Users/eric0liveira/Documents/repostories/gitHub/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.dll
+/Users/eric0liveira/Documents/repostories/gitHub/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.pdb
