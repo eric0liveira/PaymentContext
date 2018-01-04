@@ -9,10 +9,13 @@ namespace PaymentContext.Domain.Entities
         private List<Subscription> _subscripton;
         public Student(Name name, Document document, Email email)
         {
+
             Name = name;
             Document = document;
             Email = email;
             _subscripton = new List<Subscription>();
+
+            AddNotifications(name, document, email);
         }
 
         public Name Name { get; private set; }
