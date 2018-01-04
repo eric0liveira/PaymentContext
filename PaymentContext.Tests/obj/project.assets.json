@@ -5751,7 +5751,8 @@
       "Microsoft.NET.Test.Sdk >= 15.5.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "PaymentContext.Domain >= 1.0.0",
-      "PaymentContext.Shared >= 1.0.0"
+      "PaymentContext.Shared >= 1.0.0",
+      "flunt >= 1.0.2"
     ]
   },
   "packageFolders": {
@@ -5817,6 +5818,10 @@
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
+          },
+          "flunt": {
+            "target": "Package",
+            "version": "[1.0.2, )"
           }
         },
         "imports": [
